@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Lin's personal website
+
+This is a page to share project updates, new findings and good resources. Feel free to book mark the page and check frequently!
 
 You can use the [editor on GitHub](https://github.com/ljia-ch/ljia-ch.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
